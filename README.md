@@ -81,3 +81,6 @@ I don't just write code — I architect systems and build experiences 🚀
 I enjoy turning simple ideas into clean and interactive web experiences 🎨
 Let's connect and create something awesome!
 ```
+<div align="center">
+  <img src="https://github.com/chandranath983/chandranath983/blob/output/github-snake-dark.svg" />
+</div>
