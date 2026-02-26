@@ -41,7 +41,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB_Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ 
 
 </p>
 
